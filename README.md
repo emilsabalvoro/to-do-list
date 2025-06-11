@@ -3,11 +3,11 @@ Engineering exam for a company. Uses Node.JS with Express and SQLite.
 
 Why This is the Simplest:
 
-Single File: Everything in one server.js file
-No Database Setup: Uses SQLite in-memory
-Minimal Dependencies: Just Express and SQLite3
-No Configuration: Works out of the box
-No Build Process: Pure JavaScript, no compilation needed
+1. Single File: Everything in one server.js file
+2. No Database Setup: Uses SQLite in-memory
+3. Minimal Dependencies: Just Express and SQLite3
+4. No Configuration: Works out of the box
+5. No Build Process: Pure JavaScript, no compilation needed
 
 API Endpoints:
 
