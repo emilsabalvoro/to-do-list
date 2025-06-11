@@ -23,8 +23,8 @@ POST /seed - Generate test data
 ```
 
 Setup / Testing:
-1. Run composer install
-2. Run node server.js
+1. Run `composer install`
+2. Run `node server.js`
 
 A. Health Check
 Request:
